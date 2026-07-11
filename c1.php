@@ -100,6 +100,10 @@ $rooms->name = "Item 16";
 $rooms->picture = "p1.jpg";
 $rooms->price = "\$3,000,000";
 $rooms->Attributes();
+//Adding image 017 reusing one of the already called-in photos
+$rooms->name = "Item 17";
+$rooms->picture = "p2.jpg";
+$rooms->price = "\$25,000,000";
 
 
 
