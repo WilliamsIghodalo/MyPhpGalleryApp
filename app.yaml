@@ -1,0 +1,8 @@
+runtime: php 5.5
+
+app_version:1
+
+-url:/.*
+
+script:c1.php
+ 
